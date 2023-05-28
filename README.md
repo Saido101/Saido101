@@ -8,6 +8,8 @@ I treat consumers with friendliness while remaining professional. As a result, I
 
 - <b>CLI,GUI and WEB APP Todo App (Genesis)</b>
   - [Praciting Python Basics](https://github.com/Saido101/to-do)
+  
+ <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -16,13 +18,13 @@ I treat consumers with friendliness while remaining professional. As a result, I
 [<img align="left" alt="NoelSaido | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="NoelSaido | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+[twitter]: https://twitter.com/#
+[youtube]: https://www.youtube.com/@DisruptAlert
 [instagram]: https://www.instagram.com/#/
 [linkedin]: https://www.linkedin.com/in/noel-saido-54114a218/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Saido101/Saido101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
