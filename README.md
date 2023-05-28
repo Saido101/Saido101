@@ -8,8 +8,6 @@ I treat consumers with friendliness while remaining professional. As a result, I
 
 - <b>CLI,GUI and WEB APP Todo App (Genesis)</b>
   - [Praciting Python Basics](https://github.com/Saido101/to-do)
-  
- <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
