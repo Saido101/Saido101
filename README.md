@@ -1,4 +1,4 @@
-<h1>Hi, I'm Noel! <br/><a href="https://github.com/Saido101">Programmer</a>, <a href="https://www.linkedin.com/in/Saido101/">Pentester</a>
+<h1>Hi, I'm Noel! <br/><a href="https://github.com/Saido101">Programmer</a>, <a href="https://www.linkedin.com/in/Saido101/">Ethical Hacker</a>
 <h2>👨‍💻 About me:</h2>
   <p>I am passionate about software development and cybersecurity. I like to play with code and result in the best output from my
 work. I can solve problems analytically and face any complex situation to fix them with full vividness. In addition,
