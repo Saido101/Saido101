@@ -8,7 +8,7 @@ I treat consumers with friendliness while remaining professional. As a result, I
 
 - <b>CLI,GUI and WEB APP Todo App (Genesis)</b>
   - [Python Basics](https://github.com/Saido101/to-do)
-- <b>Issue Tracker System</b>
+- <b>Issue Tracker</b>
   - [code project](https://github.com/Saido101/IssueTracker)
 
 <h2> 🤳 Connect with me:</h2>
