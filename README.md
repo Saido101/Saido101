@@ -10,6 +10,9 @@ I treat consumers with friendliness while remaining professional. As a result, I
   - [Python Basics](https://github.com/Saido101/to-do)
 - <b>Issue Tracker</b>
   - [code project](https://github.com/Saido101/IssueTracker)
+- <b> PDF Templates <b>
+  - [code project](https://github.com/Saido101/pdf-templates)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
