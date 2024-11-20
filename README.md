@@ -6,8 +6,6 @@ I treat consumers with friendliness while remaining professional. As a result, I
     my unwavering commitment to completing my job is a priority.</p>
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>CLI,GUI and WEB APP Todo App (Genesis)</b>
-  - [Python Basics](https://github.com/Saido101/to-do)
 - <b>Issue Tracker</b>
   - [code project](https://github.com/Saido101/IssueTracker)
 - <b> PDF Templates <b>
